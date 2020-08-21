@@ -1,0 +1,27 @@
+@font-face {
+	font-family: "SegoeUIRegular";
+			src: url("../fonts/SegoeUIRegular/SegoeUIRegular.eot");
+			src: url("../fonts/SegoeUIRegular/SegoeUIRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/SegoeUIRegular/SegoeUIRegular.woff") format("woff"),
+			url("../fonts/SegoeUIRegular/SegoeUIRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+}
+@font-face {
+	font-family: "Calibri";
+			src: url("../fonts/Calibri/Calibri.eot");
+			src: url("../fonts/Calibri/Calibri.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Calibri/Calibri.woff") format("woff"),
+			url("../fonts/Calibri/Calibri.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+}
+@font-face {
+	font-family: "Georgia-Bold";
+			src: url("../fonts/Georgia/Georgia-Bold.eot");
+			src: url("../fonts/Georgia/Georgia-Bold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Georgia/Georgia-Bold.woff") format("woff"),
+			url("../fonts/Georgia/Georgia-Bold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+}
